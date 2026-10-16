@@ -1,0 +1,15 @@
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\bin\Debug\net8.0-windows\RepairServiceTracker.exe
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\bin\Debug\net8.0-windows\RepairServiceTracker.deps.json
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\bin\Debug\net8.0-windows\RepairServiceTracker.runtimeconfig.json
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\bin\Debug\net8.0-windows\RepairServiceTracker.dll
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\bin\Debug\net8.0-windows\RepairServiceTracker.pdb
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.dll
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\refint\RepairServiceTracker.dll
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.pdb
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairServiceTracker.genruntimeconfig.cache
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\ref\RepairServiceTracker.dll
+C:\Users\Min min\Downloads\Bai3_RepairServiceTracker\obj\Debug\net8.0-windows\RepairSe.BDCB24AB.Up2Date

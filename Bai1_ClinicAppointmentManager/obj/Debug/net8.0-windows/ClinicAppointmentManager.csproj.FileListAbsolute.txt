@@ -1,0 +1,15 @@
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.exe
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.deps.json
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.runtimeconfig.json
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.dll
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.pdb
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.csproj.CoreCompileInputs.cache
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.dll
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\refint\ClinicAppointmentManager.dll
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.pdb
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.genruntimeconfig.cache
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ref\ClinicAppointmentManager.dll
+C:\Users\Min min\Downloads\Bai1_ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAp.0B201D38.Up2Date

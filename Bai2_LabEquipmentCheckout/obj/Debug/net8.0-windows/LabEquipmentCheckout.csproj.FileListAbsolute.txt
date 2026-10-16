@@ -1,0 +1,15 @@
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\bin\Debug\net8.0-windows\LabEquipmentCheckout.exe
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\bin\Debug\net8.0-windows\LabEquipmentCheckout.deps.json
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\bin\Debug\net8.0-windows\LabEquipmentCheckout.runtimeconfig.json
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\bin\Debug\net8.0-windows\LabEquipmentCheckout.dll
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\bin\Debug\net8.0-windows\LabEquipmentCheckout.pdb
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.csproj.CoreCompileInputs.cache
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.dll
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\refint\LabEquipmentCheckout.dll
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.pdb
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquipmentCheckout.genruntimeconfig.cache
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\ref\LabEquipmentCheckout.dll
+C:\Users\Min min\Downloads\Bai2_LabEquipmentCheckout\obj\Debug\net8.0-windows\LabEquip.31D0028C.Up2Date
